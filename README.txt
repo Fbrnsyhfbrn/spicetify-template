@@ -33,7 +33,4 @@ install = Open the troll logo on the top left and click the Settings logo and cl
 MIT License — use, modify, share freely 📜
 
 [AUTHOR]
-AFi - Fbnrnsyh, 2025 ✌️
-
-[QUOTE]
-"Keep your tools sharp, your code clean, and your mind open." 💡
+Fbnrnsyh, 09-2025
